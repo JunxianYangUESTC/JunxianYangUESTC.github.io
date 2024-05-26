@@ -18,23 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, Here! 👋
-I am Yang Junxian, a third-year undergraduate student at the University of Electronic Science and Technology of China.  
+I am Yang Junxian, a third-year undergraduate student in School of Information and Software Engineering at the University of Electronic Science and Technology of China. Previously, I was a remote research intern at the University of Wisconsin-Madison, supervised by [Prof. Chaowei Xiao](https://xiaocw11.github.io/), devoting myself into building a new benchmark on evaluating LLMs ability towards vulnerability detection and repair. Now I am a research intern at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, supervised by [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/).
 
 My research interest includes Large Language Models, Natural Language Processing and Autonomous Driving.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 I will join [the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) as a research intern. 
+- *2023.09*: &nbsp;🎉🎉 I will start my first scientific experience in my life under the supervision of [Prof. Chaowei Xiao](https://xiaocw11.github.io/). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** and B. Wang et al.,
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
