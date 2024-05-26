@@ -24,6 +24,9 @@ My research interest includes Large Language Models, Natural Language Processing
 
 
 # 🔥 News
+- *2024.6*: &nbsp;🎉🎉 One paper submitted at IEEE Transactions on Intelligent Vehicles.
+- *2024.5*: &nbsp;🎉🎉 One paper submitted at MSFW.
+- *2024.4*: &nbsp;🎉🎉 One paper submitted at ECAI 2024.
 - *2023.12*: &nbsp;🎉🎉 I will join [the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) as a research intern. 
 - *2023.09*: &nbsp;🎉🎉 I will start my first scientific experience in my life under the supervision of [Prof. Chaowei Xiao](https://xiaocw11.github.io/). 
 
@@ -35,9 +38,6 @@ My research interest includes Large Language Models, Natural Language Processing
 [Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** and B. Wang et al.,
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
