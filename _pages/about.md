@@ -55,6 +55,6 @@ H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** and B. Wang et al.,
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2023.12 - now*, Research Assitant, [University of Macau](https://www.um.edu.mo/).
+- *2023.12 - now*, Research assitant@[University of Macau](https://www.um.edu.mo/).
 - *2023.12 - 2024.02*, Remote research intern@[Westlake University](https://www.westlake.edu.cn/).
 - *2023.09 - 2023.12*, Remote research intern@[UW-Madison](https://www.wisc.edu/).
