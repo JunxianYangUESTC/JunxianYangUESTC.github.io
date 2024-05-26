@@ -44,7 +44,7 @@ My research interest includes Large Language Models, Natural Language Processing
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.11* Enterprise First Class Scholarship at UESTC**(Top 10 in the whole university)**. 
+- *2023.11* Enterprise First Class Scholarship at UESTC **(Top 10 in the whole university)**. 
 - *2023.10* Outstanding Student First Class Scholarship at UESTC. 
 - *2022.10* Outstanding Student First Class Scholarship at UESTC. 
 
