@@ -41,19 +41,20 @@ H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** and B. Wang et al.,
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2023.11* Enterprise First Class Scholarship at UESTC **(Top 10 in the whole university)**. 
 - *2023.10* Outstanding Student First Class Scholarship at UESTC. 
 - *2022.10* Outstanding Student First Class Scholarship at UESTC. 
 
 # 📖 Educations
-- *2021.09 - now*, University of Electronic Science and Technology of China. 
+- *2023.06 - 2023.07*, Visiting Student, National University of Singapore. 
+- *2021.09 - now*, Bachelor, University of Electronic Science and Technology of China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.12 - now*, Research Assitant, [University of Macau](https://www.um.edu.mo/).
+- *2023.12 - 2024.02*, Remote research intern@[Westlake University](https://www.westlake.edu.cn/).
+- *2023.09 - 2023.12*, Remote research intern@[UW-Madison](https://www.wisc.edu/).
