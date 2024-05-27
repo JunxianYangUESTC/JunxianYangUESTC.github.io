@@ -31,7 +31,7 @@ My research interest includes Large Language Models, Natural Language Processing
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MFTS/div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MFTS/div><img src='images/MFTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Chain-of-Thoughts Enhanced LLM-Instructed Trajectory Prediction Framework for Autonomous Driving](assets/TRC-30_paper_80.pdf)
