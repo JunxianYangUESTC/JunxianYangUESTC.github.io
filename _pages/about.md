@@ -1,4 +1,4 @@
-![image](https://github.com/JunxianYangUESTC/JunxianYangUESTC.github.io/assets/170880699/8a61cbe3-42eb-4af8-847f-9c6c914a1ccd)---
+---
 permalink: /
 title: ""
 excerpt: ""
