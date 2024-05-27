@@ -47,7 +47,6 @@ H. Liao∗, H. Kong∗, **Junxian Yang** et al.,
 
 H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** et al.,
 </div>
-
 </div>
 
 
