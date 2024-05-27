@@ -34,7 +34,7 @@ My research interest includes Large Language Models, Natural Language Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MFTS 2024</div><img src='images/MFTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Chain-of-Thoughts Enhanced LLM-Instructed Trajectory Prediction Framework for Autonomous Driving](assets/TRC-30_paper_80.pdf)
+[A Chain-of-Thoughts Enhanced LLM-Instructed Trajectory Prediction Framework for Autonomous Driving](../assets/TRC-30_paper_80.pdf)
 
 H. Liao∗, H. Kong∗, **Junxian Yang** et al.,
 </div>
