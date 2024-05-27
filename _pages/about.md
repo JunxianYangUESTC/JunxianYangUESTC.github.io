@@ -24,18 +24,17 @@ My research interest includes Large Language Models, Natural Language Processing
 
 
 # 🔥 News
-- *2024.6*: &nbsp;🎉🎉 One paper submitted at IEEE Transactions on Intelligent Vehicles.
-- *2024.5*: &nbsp;🎉🎉 One paper submitted at MSFW.
-- *2024.4*: &nbsp;🎉🎉 One paper submitted at ECAI 2024.
-- *2023.12*: &nbsp;🎉🎉 I will join [the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) as a research intern. 
-- *2023.09*: &nbsp;🎉🎉 I will start my first scientific experience in my life under the supervision of [Prof. Chaowei Xiao](https://xiaocw11.github.io/). 
+- *2024.6*: &nbsp; One paper submitted at IEEE Transactions on Intelligent Vehicles.
+- *2024.4*: &nbsp; One paper submitted at MFTS.
+- *2023.12*: &nbsp; I will join [the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) as a research intern under the supervision of [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/).
+- *2023.09*: &nbsp; I will start my first scientific experience in my life under the supervision of [Prof. Chaowei Xiao](https://xiaocw11.github.io/). 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Chain-of-Thoughts Enhanced LLM-Instructed Trajectory Prediction Framework for Autonomous Driving]()
 
 H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** and B. Wang et al.,
 </div>
@@ -50,9 +49,6 @@ H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** and B. Wang et al.,
 - *2023.06 - 2023.07*, Visiting Student, National University of Singapore. 
 - *2021.09 - now*, Bachelor, University of Electronic Science and Technology of China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2023.12 - now*, Research assitant@[University of Macau](https://www.um.edu.mo/).
