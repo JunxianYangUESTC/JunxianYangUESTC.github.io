@@ -22,6 +22,8 @@ I am Yang Junxian, a third-year undergraduate student in School of Information a
 
 My research interest includes Large Language Models, Natural Language Processing and Autonomous Driving.
 
+**I am looking for a MPhil or a Ph.D program 2025 fall, feel free to contact me if you want to collaborate with me!**
+
 
 # 🔥 News
 - *2024.6*: &nbsp; One paper submitted at IEEE Transactions on Intelligent Vehicles.
