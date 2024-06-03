@@ -20,7 +20,7 @@ redirect_from:
 Hi, Here! 👋
 I am Yang Junxian, a third-year undergraduate student in School of Information and Software Engineering at the University of Electronic Science and Technology of China. Previously, I was a remote research intern at the University of Wisconsin-Madison, supervised by [Prof. Chaowei Xiao](https://xiaocw11.github.io/), devoting myself into building a new benchmark on evaluating LLMs ability towards vulnerability detection and repair. Now I am a research intern at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, supervised by [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/).
 
-My research interest includes Large Language Models, Natural Language Processing and Autonomous Driving.
+My research interest includes (Multimodal) Large Language Models, Natural Language Processing and Autonomous Driving.
 
 **I am looking for a MPhil or a Ph.D program 2025 fall, feel free to contact me if you want to collaborate with me!**
 
