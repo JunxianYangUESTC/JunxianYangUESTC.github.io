@@ -18,16 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, Here! 👋
-I am Yang Junxian, a third-year undergraduate student in School of Information and Software Engineering at the University of Electronic Science and Technology of China. Previously, I was a remote research intern at the University of Wisconsin-Madison, supervised by [Prof. Chaowei Xiao](https://xiaocw11.github.io/), devoting myself into building a new benchmark on evaluating LLMs ability towards vulnerability detection and repair. Now I am a research intern at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, supervised by [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/).
+I am Yang Junxian, a forth-year undergraduate student in School of Information and Software Engineering at the University of Electronic Science and Technology of China. Previously, I was a remote research intern at the University of Wisconsin-Madison, supervised by [Prof. Chaowei Xiao](https://xiaocw11.github.io/), devoting myself into building a new benchmark on evaluating LLMs ability towards vulnerability detection and repair. After that, I have been a research intern at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, supervised by [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/). I will join the University of Science and Technology of China(USTC) as a master student in 2025 fall.
 
 My research interest includes (Multimodal) Large Language Models, Natural Language Processing and Autonomous Driving.
 
-**I am looking for a MPhil or a Ph.D program 2025 fall, feel free to contact me if you want to collaborate with me!**
 
 
 # 🔥 News
-- *2024.6*: &nbsp; One paper submitted at IEEE Transactions on Intelligent Vehicles.
-- *2024.4*: &nbsp; One paper submitted at MFTS.
+- *2024.8*: &nbsp; One paper submitted at AAAI 2025.
+- *2024.6*: &nbsp; One paper got Oral Presentation at MFTS.
 - *2023.12*: &nbsp; I will join [the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/) as a research intern under the supervision of [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/).
 - *2023.09*: &nbsp; I will start my first scientific experience in my life under the supervision of [Prof. Chaowei Xiao](https://xiaocw11.github.io/). 
 
@@ -53,11 +52,13 @@ H. Liao∗, H. Kong∗, **Junxian Yang** et al.,
 </div>
 
 # 🎖 Honors and Awards
+- *2024.10* Outstanding Student First Class Scholarship at UESTC. 
 - *2023.11* Enterprise First Class Scholarship at UESTC **(Top 10 in the whole university)**. 
 - *2023.10* Outstanding Student First Class Scholarship at UESTC. 
 - *2022.10* Outstanding Student First Class Scholarship at UESTC. 
 
 # 📖 Educations
+- *2025.09 - 2028.06(expected)*, Master, University of Science and Technology of China. 
 - *2023.06 - 2023.07*, Visiting Student, National University of Singapore. 
 - *2021.09 - now*, Bachelor, University of Electronic Science and Technology of China. 
 
