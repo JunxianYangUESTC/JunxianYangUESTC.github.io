@@ -18,10 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, Here! 👋
-I am Yang Junxian, a forth-year undergraduate student in School of Information and Software Engineering at the University of Electronic Science and Technology of China. Previously, I was a remote research intern at the University of Wisconsin-Madison, supervised by [Prof. Chaowei Xiao](https://xiaocw11.github.io/), devoting myself into building a new benchmark on evaluating LLMs ability towards vulnerability detection and repair. After that, I have been a research intern at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, supervised by [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/). I will join the University of Science and Technology of China(USTC) as a master student in 2025 fall.
+I am Yang Junxian, a forth-year undergraduate student in School of Information and Software Engineering at the University of Electronic Science and Technology of China. Previously, I was a remote research intern at the University of Wisconsin-Madison [Safolab](https://safolab-wisc.github.io/), supervised by [Prof. Chaowei Xiao](https://xiaocw11.github.io/), devoting myself into building a new benchmark on evaluating LLMs ability towards vulnerability detection and repair. After that, I have been a research intern at [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, supervised by [Prof. Zhenning Li](https://www.fst.um.edu.mo/personal/zhenningli/). I will join the University of Science and Technology of China(USTC) as a master student in 2025 fall.
 
 My research interest includes (Multimodal) Large Language Models, Natural Language Processing and Autonomous Driving.
-
 
 
 # 🔥 News
@@ -31,16 +30,6 @@ My research interest includes (Multimodal) Large Language Models, Natural Langua
 - *2023.09*: &nbsp; I will start my first scientific experience in my life under the supervision of [Prof. Chaowei Xiao](https://xiaocw11.github.io/). 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIV 2024</div><img src='images/LLM-TP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LLM-TP: Enhancing Trajectory Prediction for Autonomous Driving with LLMs and Chain-of-Thought Prompting](https://mikegoblin.github.io/_pages/llmtp.html)
-
-H. Liao∗, H. Kong∗, C. Wang, **Junxian Yang** et al.,
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MFTS 2024</div><img src='images/MFTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
